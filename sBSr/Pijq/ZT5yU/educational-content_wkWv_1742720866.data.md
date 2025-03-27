@@ -27,7 +27,6 @@ In our first year, we focus on the fundamentals. We introduce students to the pr
 + Lidwell, W., Holden, K. and Butler, J., 2010. [Universal Principles of Design.](http://www.amazon.co.uk/exec/obidos/ASIN/1592535879/monographic-21) 2nd ed. Rockport Publishers.
 
 
-###Introduction to Communication Design
 
 ####Required
 
