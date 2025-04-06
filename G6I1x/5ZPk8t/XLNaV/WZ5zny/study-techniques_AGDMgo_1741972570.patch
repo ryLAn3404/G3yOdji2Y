@@ -610,7 +610,6 @@
 >   // about CWL. There is also nCWL parameter. Need to clean it up.
 >   localparam CWL_T            = (DRAM_TYPE == "DDR3") ? CWL : CL-1;
 >   localparam PRE_REV3ES       = "OFF";
->   localparam DDR2_DQSN_ENABLE = "YES";
 >   localparam PHYCTL_CMD_FIFO  = "FALSE";
 >   localparam IODELAY_GRP      = "IODELAY_MIG";
 >   localparam MASTER_PHY_CTL   = 0;
