@@ -75,7 +75,6 @@ export PATH="$PATH:/directory1"
 
 ### 5.Virtual Environment 是什么？
 virtualenv 是一个 Python 模组/工具，可以通过
-```
 pip install virtualenv
 ```
 来下载。
