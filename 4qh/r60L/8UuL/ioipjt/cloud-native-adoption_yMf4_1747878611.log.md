@@ -20,7 +20,6 @@ Best Practices:
   - [Actors and Roles](https://github.com/lfn-cnti/bestpractices/discussions/30)
   - [Glossary](https://github.com/lfn-cnti/bestpractices/blob/main/doc/glossary.md)
 - [CNTi Best Practices](https://github.com/lfn-cnti/bestpractices/blob/main/doc/best_cnf_dev.md)
-  - [Process to publish a CNTi Best Practice](https://github.com/lfn-cnti/bestpractices/blob/main/doc/cbpps/cnti_best_practice_process.md)
   - [See the template for more details](https://github.com/lfn-cnti/bestpractices/blob/main/doc/cbpps/NNNN-cbpp-template.md)
 - Gap Analysis
 
