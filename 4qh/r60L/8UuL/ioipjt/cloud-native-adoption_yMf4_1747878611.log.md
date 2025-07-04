@@ -44,7 +44,6 @@ Over time, we hope that you feel comfortable voicing your opinions, ideas and pr
 Check the respective focus area wikis for more details on when we meet for [Best Practices](https://wiki.lfnetworking.org/x/HAAxBw), [Test Catalog](https://wiki.lfnetworking.org/x/HgAxBw), and [Certification](https://wiki.lfnetworking.org/x/IAAxBw). 
 
 ### Join a GitHub Discussion
-
 Join an existing discussion or create a new one:
 
 Best Practices:
