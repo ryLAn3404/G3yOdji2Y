@@ -7,7 +7,6 @@ To learn more about our focus areas and our different collaboration tools, pleas
 - [Best Practices](https://wiki.lfnetworking.org/x/HAAxBw)
 - [Test Catalog](https://wiki.lfnetworking.org/x/HgAxBw)
 - [Certification](https://wiki.lfnetworking.org/x/IAAxBw)
-
 ## What to Contribute?
 
 We welcome many different types of contributions including:
