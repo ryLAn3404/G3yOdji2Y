@@ -2,7 +2,6 @@ node_modules
 dist
 /.vscode
 es
-.github
 scripts
 webpack.config.js
 
