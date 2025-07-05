@@ -25,7 +25,6 @@ function [tout, ave_t, var_t, n_t, nsegout] = runavevar(tseg, t, x)
             idx = idx + 1;
         end
 
-        if idx == np
         end
 
         % Points in the segment
