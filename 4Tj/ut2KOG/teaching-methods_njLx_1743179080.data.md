@@ -25,5 +25,4 @@
 
 ### Data analysis
 
-- [*Journal of Open Humanities Data*](https://openhumanitiesdata.metajnl.com/) (Ubiquity Press, green/hybrid OA) – full-length research paper
 - [Melusina Press](https://www.melusinapress.lu/) (the university press of University of Luxembourg) has published a collection of interactive/executable papers in the [*Fabrikation von Erkenntnis*](https://www.melusinapress.lu/projects/fabrikation-von-erkenntnis) project.
