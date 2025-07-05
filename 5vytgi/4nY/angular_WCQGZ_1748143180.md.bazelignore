@@ -38,5 +38,4 @@ modules/ssr-benchmarks/node_modules
 
 # For rules_js
 packages/compiler/node_modules
-packages/compiler-cli/node_modules
 tools/bazel/rules_angular_store/node_modules
