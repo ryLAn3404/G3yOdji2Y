@@ -26,7 +26,6 @@ Test Catalog:
 - Code new tests, test enhancements, and bug fixes
 - Example CNFs
 - Bug reports
-
 Certification:
 - General improvements to our [documentation](https://github.com/lfn-cnti/certification)
 - Become a reviewer and help with certification of vendors who successfully demonstrate adherence to cloud native best practices
