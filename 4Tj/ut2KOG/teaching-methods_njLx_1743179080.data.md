@@ -26,6 +26,5 @@
 
 ### Data analysis
 
-- [Journal of Digital History](https://journalofdigitalhistory.org/en/articles) (De Gruyter/University of Luxembourg, diamond OA) – interactive/executable paper format
 - [*Journal of Open Humanities Data*](https://openhumanitiesdata.metajnl.com/) (Ubiquity Press, green/hybrid OA) – full-length research paper
 - [Melusina Press](https://www.melusinapress.lu/) (the university press of University of Luxembourg) has published a collection of interactive/executable papers in the [*Fabrikation von Erkenntnis*](https://www.melusinapress.lu/projects/fabrikation-von-erkenntnis) project.
