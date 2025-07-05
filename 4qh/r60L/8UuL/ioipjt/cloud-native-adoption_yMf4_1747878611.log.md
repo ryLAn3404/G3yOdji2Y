@@ -5,7 +5,6 @@ Welcome to the Cloud Native Telecom Initiative (CNTi). This is an open, public p
 To learn more about our focus areas and our different collaboration tools, please visit our focus area wiki pages:
 
 - [Best Practices](https://wiki.lfnetworking.org/x/HAAxBw)
-- [Test Catalog](https://wiki.lfnetworking.org/x/HgAxBw)
 - [Certification](https://wiki.lfnetworking.org/x/IAAxBw)
 ## What to Contribute?
 
