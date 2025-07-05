@@ -4,7 +4,6 @@
 - *[Humanities Dataset in Context](https://hc3.princeton.edu/humanities-datasets)* by Humanities Computing at Princeton
 - [Accompanying data](https://doi.org/10.5281/zenodo.3560761) from the book HDA (see below)
 - [Constellate Tutorials](https://constellate.org/tutorials) for building a dataset from JSTOR for analysis
-
 ## Books
 - HDA: [*Humanities Data Analysis: Case Studies with Python*](https://www.humanitiesdataanalysis.org/)
 - [Computational Analysis of Communication](https://www.wiley.com/en-us/Computational+Analysis+of+Communication-p-9781119680284)
