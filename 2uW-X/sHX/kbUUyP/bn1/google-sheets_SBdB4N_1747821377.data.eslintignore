@@ -2,6 +2,5 @@ node_modules
 /.vscode
 es
 scripts
-webpack.config.js
 
 # formula-parser
