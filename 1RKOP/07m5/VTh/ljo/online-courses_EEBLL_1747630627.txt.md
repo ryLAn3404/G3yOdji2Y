@@ -18,7 +18,6 @@ whereis python
 ```
 pip install package_name #  会下载一个包
 ```
-但是，如果你有多个 python 版本，怎么确保下载对应的包呢？
 ```
 python -m pip install package_name #  就会使用对应 python 的 pip 来下载
 python3 -m pip install package_name
