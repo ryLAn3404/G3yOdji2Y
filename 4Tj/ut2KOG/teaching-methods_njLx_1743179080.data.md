@@ -1,4 +1,3 @@
-# ADA resources 
 
 ## Datasets
 - *[Humanities Dataset in Context](https://hc3.princeton.edu/humanities-datasets)* by Humanities Computing at Princeton
