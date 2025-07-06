@@ -56,7 +56,6 @@ echo $PATH  # 在命令行里，你可以这样将 PATH 的值打印出来
 export PATH="/directory1:/directory2:$PATH"
 ```
 那么因为先搜索到 directory1，所以就会执行 directory1 里面的 python
-```
 export PATH="/directory1:$PATH"
 # 这种写法也是一样的，意为先追加 directory2 到 PATH 的前面，再追加 direcotry1 到 PATH 前面。
 # 所以最终 directory1 在 directory2 前面。
