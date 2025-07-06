@@ -27,7 +27,6 @@
   "ignorePatterns": ["dist", ".eslintrc.json"],
   "settings": {
     "import/resolver": {
-      "node": {
         "extensions": [".js", ".ts"]
       }
     }
