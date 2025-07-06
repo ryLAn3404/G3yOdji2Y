@@ -71,7 +71,6 @@ charset = utf-8
 trim_trailing_whitespace = false
 insert_final_newline = false
 line_wrap_mode = soft wrap
-
 # Git configuration files
 [*.gitignore *.gitattributes *.editorconfig]
 indent_style = space
