@@ -24,5 +24,3 @@
 - [*Research Data Journal for the Humanities and Social Sciences*](https://brill.com/view/journals/rdj/rdj-overview.xml) (Brill, gold OA)
 
 ### Data analysis
-
-- [Melusina Press](https://www.melusinapress.lu/) (the university press of University of Luxembourg) has published a collection of interactive/executable papers in the [*Fabrikation von Erkenntnis*](https://www.melusinapress.lu/projects/fabrikation-von-erkenntnis) project.
