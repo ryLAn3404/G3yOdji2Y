@@ -43,7 +43,6 @@ function [tout, ave_t, var_t, n_t, nsegout] = runavevar(tseg, t, x)
         n_t(segcnt) = npseg;
 
         if enddat
-            break;
         end
     end
 
