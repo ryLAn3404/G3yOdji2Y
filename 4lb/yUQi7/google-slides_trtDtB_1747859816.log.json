@@ -21,7 +21,6 @@
       {
         "js": "never",
         "ts": "never"
-      }
     ]
   },
   "ignorePatterns": ["dist", ".eslintrc.json"],
