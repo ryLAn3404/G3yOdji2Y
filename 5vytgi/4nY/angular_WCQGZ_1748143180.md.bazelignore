@@ -35,7 +35,6 @@ integration/typings_test_rxjs7/node_modules
 integration/typings_test_ts58/node_modules
 modules/ssr-benchmarks/node_modules
 
-
 # For rules_js
 packages/compiler/node_modules
 tools/bazel/rules_angular_store/node_modules
