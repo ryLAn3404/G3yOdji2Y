@@ -46,7 +46,6 @@ Best Practices:
 - [Best Practices Discussion board](https://github.com/lfn-cnti/bestpractices/discussions)
 
 Test Catalog:
-- [Test Catalog Discussion board](https://github.com/lfn-cnti/testsuite/discussions)
 
 Certification:
 - [Certification Discussion board](https://github.com/lfn-cnti/certification/discussions)
