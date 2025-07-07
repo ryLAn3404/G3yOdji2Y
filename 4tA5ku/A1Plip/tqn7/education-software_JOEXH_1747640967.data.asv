@@ -25,7 +25,6 @@ function [tout, ave_t, var_t, n_t, nsegout] = runavevar(tseg, t, x)
 
         end
 
-        % Points in the segment
         npseg = idx - start + 1;
 
         twk = t(start:start+npseg-1);
