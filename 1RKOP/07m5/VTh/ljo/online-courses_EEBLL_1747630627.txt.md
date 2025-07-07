@@ -48,7 +48,6 @@ export PATH="/home/MyUserName/anaconda3/bin:$PATH"
 注意，格式一定是 export PATH=“你要添加的路径:$PATH” ！其中，PATH = 是给 PATH 这个变量赋值。：是路径追加。$PATH 是引用 PATH 的值
 ```Bash
 echo $PATH  # 在命令行里，你可以这样将 PATH 的值打印出来
-```
 那么，当你在命令行里面输入 python 时，Shell 会在 PATH 中寻找叫做 python 的文件。一旦找到，那么就会执行。因为 /home/MyUserName/anaconda3/bin 这个文件夹里面有叫 python 的文件，所以就执行了这个 python。
 
 所以要注意，假如你有多个 python 的版本，一个在 directory1 里面，一个在 directory2 里面
