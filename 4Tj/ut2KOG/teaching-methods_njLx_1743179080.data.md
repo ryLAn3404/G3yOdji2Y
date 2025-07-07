@@ -14,7 +14,6 @@
 - Series of posts by T. Muñoz on the usage of pandas to "clean" data from NYPL's project *What's on the menu*: [post #1](http://www.trevormunoz.com/notebook/2013/08/08/what-is-on-the-menu-more-work-with-nypl-open-data-part-one.html), [post #2](http://www.trevormunoz.com/notebook/2013/08/19/refining-the-problem-more-work-with-nypl-open-data-part-two.html) and [post #3](https://trevormunoz.com/archive/posts/2014-01-10-borrowing-data-science-tools-more-work-with-nypl-open-data-part-three/). 
 
 ## Publication venues
-
 ### Datasets
 
 - [*Journal of Open Humanities Data*](https://openhumanitiesdata.metajnl.com/) (Ubiquity Press, green/hybrid OA) – short dataset paper
