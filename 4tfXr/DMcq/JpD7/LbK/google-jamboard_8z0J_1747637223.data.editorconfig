@@ -31,7 +31,6 @@ charset = utf-8
 trim_trailing_whitespace = false
 insert_final_newline = false
 line_wrap_mode = soft wrap
-
 # Plain Text document
 [*.txt]
 indent_style = space
