@@ -29,7 +29,6 @@ SMTP_USERNAME=
 SMTP_SECURE=false
 SMTP_IGNORETLS=false
 
-# Postmark driver config
 POSTMARK_TOKEN=
 
 # for custom drawio server
