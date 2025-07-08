@@ -3,7 +3,6 @@
   "parser": "@typescript-eslint/parser",
   "extends": [
     "plugin:prettier/recommended",
-    "eslint:recommended",
   ],
   "env": {
     "googleappsscript/googleappsscript": true
