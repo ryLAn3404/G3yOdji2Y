@@ -5,7 +5,6 @@
     "plugin:prettier/recommended",
     "eslint:recommended",
   ],
-  "plugins": ["prettier", "googleappsscript"],
   "env": {
     "googleappsscript/googleappsscript": true
   },
