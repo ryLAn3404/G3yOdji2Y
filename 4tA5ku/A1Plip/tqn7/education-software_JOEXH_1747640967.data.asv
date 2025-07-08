@@ -27,7 +27,6 @@ function [tout, ave_t, var_t, n_t, nsegout] = runavevar(tseg, t, x)
 
         npseg = idx - start + 1;
 
-        twk = t(start:start+npseg-1);
 
         % Average observation interval for the segment -> used for output
         tout(segcnt) = sum(twk) / npseg;
