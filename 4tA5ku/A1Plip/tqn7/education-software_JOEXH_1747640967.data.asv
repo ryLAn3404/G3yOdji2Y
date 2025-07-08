@@ -24,7 +24,6 @@ function [tout, ave_t, var_t, n_t, nsegout] = runavevar(tseg, t, x)
         end
 
         end
-
         npseg = idx - start + 1;
 
 
