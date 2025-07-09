@@ -1,7 +1,6 @@
 function [tout, ave_t, var_t, n_t, nsegout] = runavevar(tseg, t, x)
     % Calculate np as the length of the t array
     segcnt = 0;
-    start = 0;
     enddat = false;
 
     % Preallocate arrays
