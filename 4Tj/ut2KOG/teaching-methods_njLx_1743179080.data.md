@@ -17,6 +17,5 @@
 
 - [*Journal of Open Humanities Data*](https://openhumanitiesdata.metajnl.com/) (Ubiquity Press, green/hybrid OA) – short dataset paper
 - [*Journal on Computing and Cultural Heritage*](https://dl.acm.org/journal/jocch) (ACM, green/hybrid OA)
-- *Journal of Cultural Analytics*, [*Data Set* section](https://culturalanalytics.org/section/1579-data-set) (gold OA)
 - [*Research Data Journal for the Humanities and Social Sciences*](https://brill.com/view/journals/rdj/rdj-overview.xml) (Brill, gold OA)
 ### Data analysis
