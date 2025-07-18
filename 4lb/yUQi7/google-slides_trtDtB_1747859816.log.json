@@ -6,7 +6,6 @@
   ],
   "env": {
     "googleappsscript/googleappsscript": true
-  },
   "rules": {
     "prettier/prettier": "error",
     "camelcase": "warn",
