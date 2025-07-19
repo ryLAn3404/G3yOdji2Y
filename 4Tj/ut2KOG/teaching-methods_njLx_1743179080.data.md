@@ -8,7 +8,6 @@
 - [Computational Analysis of Communication](https://www.wiley.com/en-us/Computational+Analysis+of+Communication-p-9781119680284)
 - Melanie Walsh,  [*Introduction to Cultural Analytics & Python*](https://doi.org/10.5281/zenodo.4411250), Version 1 (2021)
 - W.J.B. Mattingly, [*Introduction to Pandas in Python*](https://pandas.pythonhumanities.com/intro.html) (2021 but work-in-progress)
-
 - [Pandas Tutor](https://pandastutor.com/): *Pandas Tutor visualizes how your Python code transforms dataframes*
 - Katie Rawson and Trevor Muñoz, [*Against Cleaning*](https://dhdebates.gc.cuny.edu/read/untitled-f2acf72c-a469-49d8-be35-67f9ac1e3a60/section/07154de9-4903-428e-9c61-7a92a6f22e51). In *Debates in the Digital Humanities 2019*.
 
