@@ -30,7 +30,6 @@ Certification:
 
 Not sure if you can contribute with anything above?  Feel free to join our meetings and discussions anyway.  There are always new ways to contribute to our growing community.  
 
-## How to Contribute
 
 
 Absolutely everyone is welcome to come to any of our meetings. You never need an invite to join us. In fact, we want you to join us, even if you don’t have anything you feel like you can  contribute. Just being there is a good start!
