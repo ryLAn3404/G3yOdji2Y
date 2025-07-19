@@ -14,7 +14,6 @@ Best Practices:
   - [See the template for more details](https://github.com/lfn-cnti/bestpractices/blob/main/doc/use-case/NNNN-UC-template.md)
 - Definitions
   - [Actors and Roles](https://github.com/lfn-cnti/bestpractices/discussions/30)
-  - [Glossary](https://github.com/lfn-cnti/bestpractices/blob/main/doc/glossary.md)
 - [CNTi Best Practices](https://github.com/lfn-cnti/bestpractices/blob/main/doc/best_cnf_dev.md)
   - [See the template for more details](https://github.com/lfn-cnti/bestpractices/blob/main/doc/cbpps/NNNN-cbpp-template.md)
 - Gap Analysis
