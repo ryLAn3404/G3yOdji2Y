@@ -14,7 +14,6 @@ integration/cli-hello-world-mocha/node_modules
 integration/cli-signal-inputs/node_modules
 integration/defer/node_modules
 integration/dynamic-compiler/node_modules
-integration/forms/node_modules
 integration/injectable-def/node_modules
 integration/ivy-i18n/node_modules
 integration/ng_elements/node_modules
