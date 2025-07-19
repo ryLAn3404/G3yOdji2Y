@@ -57,7 +57,6 @@ end_of_line = lf
 charset = utf-8
 trim_trailing_whitespace = false
 line_wrap_mode = soft wrap
-
 # SVG (Scalable Vector Graphics) image file
 [*.svg]
 indent_style = space
