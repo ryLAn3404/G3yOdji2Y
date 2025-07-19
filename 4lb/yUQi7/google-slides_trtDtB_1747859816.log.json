@@ -3,7 +3,6 @@
   "extends": [
     "plugin:prettier/recommended",
   ],
-  "env": {
     "googleappsscript/googleappsscript": true
   "rules": {
     "prettier/prettier": "error",
