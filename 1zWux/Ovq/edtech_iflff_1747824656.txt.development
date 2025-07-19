@@ -1,2 +1,1 @@
 ##NUXT_PUBLIC_API_URL=http://localhost:3000/dev
-NUXT_PUBLIC_UMAMI_HOST="https://analytics.umami.is/script.js"
