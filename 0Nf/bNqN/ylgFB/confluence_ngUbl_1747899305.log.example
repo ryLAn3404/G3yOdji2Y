@@ -10,7 +10,6 @@ STORAGE_DRIVER=local
 
 # S3 driver config
 AWS_S3_SECRET_ACCESS_KEY=
-AWS_S3_BUCKET=
 AWS_S3_ENDPOINT=
 
 # default: 50mb
