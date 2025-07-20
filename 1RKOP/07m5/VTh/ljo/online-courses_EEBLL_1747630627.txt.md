@@ -39,7 +39,6 @@ gedit .bashrc  # 可以打开这个文件
 
 将你要添加的路径粘贴到文件的最下方就可以了，如：
 ```bash
-```
 注意，格式一定是 export PATH=“你要添加的路径:$PATH” ！其中，PATH = 是给 PATH 这个变量赋值。：是路径追加。$PATH 是引用 PATH 的值
 ```Bash
 echo $PATH  # 在命令行里，你可以这样将 PATH 的值打印出来
