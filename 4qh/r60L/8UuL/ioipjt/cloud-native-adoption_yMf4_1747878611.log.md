@@ -88,7 +88,6 @@ Where a comment is better expressed as a proposed change, the change can be made
 Anyone with merge access can merge the PR after the item has been approved.
 
 ### Acceptance Criteria for Contributions
-
 Reviewers - Any contributor of respective repository
 
 - Everyone in the community is able to and encouraged to do PR reviews. 
