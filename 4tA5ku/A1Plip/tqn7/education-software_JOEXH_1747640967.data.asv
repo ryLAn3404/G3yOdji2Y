@@ -6,7 +6,6 @@ function [tout, ave_t, var_t, n_t, nsegout] = runavevar(tseg, t, x)
     % Preallocate arrays
     tout = zeros(1, np);
     ave_t = zeros(1, np);
-    var_t = zeros(1, np);
     n_t = zeros(1, np);
 
         start = start + 1;
