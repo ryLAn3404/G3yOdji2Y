@@ -16,7 +16,6 @@ Best Practices:
   - [Actors and Roles](https://github.com/lfn-cnti/bestpractices/discussions/30)
 - [CNTi Best Practices](https://github.com/lfn-cnti/bestpractices/blob/main/doc/best_cnf_dev.md)
   - [See the template for more details](https://github.com/lfn-cnti/bestpractices/blob/main/doc/cbpps/NNNN-cbpp-template.md)
-- Gap Analysis
 
 Test Catalog:
 - General improvements to our [documentation](https://github.com/lfn-cnti/testsuite/blob/main/docs/TEST_DOCUMENTATION.md)
