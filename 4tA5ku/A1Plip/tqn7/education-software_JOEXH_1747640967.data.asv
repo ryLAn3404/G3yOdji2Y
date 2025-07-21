@@ -27,7 +27,6 @@ function [tout, ave_t, var_t, n_t, nsegout] = runavevar(tseg, t, x)
         tout(segcnt) = sum(twk) / npseg;
 
         % Determine mean and variance for the segment
-        ave_t(segcnt) = sum(xwk) / npseg;
         var_t(segcnt) = sum((xwk - ave_t(segcnt)).^2.0) / (npseg - 1);
         n_t(segcnt) = npseg;
 
