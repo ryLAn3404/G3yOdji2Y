@@ -17,7 +17,6 @@ Best Practices:
 - [CNTi Best Practices](https://github.com/lfn-cnti/bestpractices/blob/main/doc/best_cnf_dev.md)
   - [See the template for more details](https://github.com/lfn-cnti/bestpractices/blob/main/doc/cbpps/NNNN-cbpp-template.md)
 
-Test Catalog:
 - General improvements to our [documentation](https://github.com/lfn-cnti/testsuite/blob/main/docs/TEST_DOCUMENTATION.md)
 - Code new tests, test enhancements, and bug fixes
 - Example CNFs
