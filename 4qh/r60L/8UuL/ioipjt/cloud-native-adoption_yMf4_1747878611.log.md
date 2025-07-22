@@ -1,7 +1,6 @@
 # Contributing to the CNTi
 
 
-To learn more about our focus areas and our different collaboration tools, please visit our focus area wiki pages:
 
 - [Best Practices](https://wiki.lfnetworking.org/x/HAAxBw)
 - [Certification](https://wiki.lfnetworking.org/x/IAAxBw)
