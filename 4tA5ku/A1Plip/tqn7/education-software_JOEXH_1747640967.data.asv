@@ -16,7 +16,6 @@ function [tout, ave_t, var_t, n_t, nsegout] = runavevar(tseg, t, x)
         idx = start;
 
         % Find end of the segment
-        while (t(idx) - t0 >= tseg) && (idx < np)
             idx = idx + 1;
 
         end
