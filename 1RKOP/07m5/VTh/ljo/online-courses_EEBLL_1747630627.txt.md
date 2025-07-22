@@ -52,7 +52,6 @@ export PATH="/directory1:$PATH"
 ```
 export PATH="$PATH:/directory2"
 export PATH="$PATH:/directory1"
-# 而这样的话，就是执行 direcory2 里面的 python，前提是在原本的 PATH 里面找不到 python。
 # 如果在原本的 PATH 里面有 python，那么 Shell 根本不会搜索 directory2。
 ```
 
