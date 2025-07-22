@@ -21,7 +21,6 @@ SMTP_PORT=587
 SMTP_USERNAME=
 SMTP_SECURE=false
 SMTP_IGNORETLS=false
-
 POSTMARK_TOKEN=
 
 # for custom drawio server
