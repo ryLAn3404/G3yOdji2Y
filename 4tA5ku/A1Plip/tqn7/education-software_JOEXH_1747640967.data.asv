@@ -34,4 +34,3 @@ function [tout, ave_t, var_t, n_t, nsegout] = runavevar(tseg, t, x)
 
     % Set nsegout
     nsegout = segcnt - 1;
-end
