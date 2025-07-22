@@ -1,4 +1,3 @@
-
 ## Datasets
 - [Accompanying data](https://doi.org/10.5281/zenodo.3560761) from the book HDA (see below)
 - [Constellate Tutorials](https://constellate.org/tutorials) for building a dataset from JSTOR for analysis
