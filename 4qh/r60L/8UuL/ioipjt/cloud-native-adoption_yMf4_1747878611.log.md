@@ -6,7 +6,6 @@ To learn more about our focus areas and our different collaboration tools, pleas
 - [Best Practices](https://wiki.lfnetworking.org/x/HAAxBw)
 - [Certification](https://wiki.lfnetworking.org/x/IAAxBw)
 
-We welcome many different types of contributions including:
 
 Best Practices:
 - General improvements to our documentation
