@@ -9,7 +9,6 @@ integration/animations-async/node_modules
 integration/cli-elements-universal/node_modules
 integration/cli-hello-world/node_modules
 integration/cli-hello-world-ivy-i18n/node_modules
-integration/cli-hello-world-lazy/node_modules
 integration/cli-hello-world-mocha/node_modules
 integration/cli-signal-inputs/node_modules
 integration/defer/node_modules
