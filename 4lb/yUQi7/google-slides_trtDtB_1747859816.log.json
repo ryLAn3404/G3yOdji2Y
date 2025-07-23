@@ -10,7 +10,6 @@
     "prefer-object-spread": "warn",
     "import/extensions": [
       "error",
-      {
         "ts": "never"
     ]
   },
