@@ -10,7 +10,6 @@ AWS_S3_ENDPOINT=
 
 # default: 50mb
 
-# options: smtp | postmark
 MAIL_DRIVER=smtp
 MAIL_FROM_NAME=Docmost
 # SMTP driver config
