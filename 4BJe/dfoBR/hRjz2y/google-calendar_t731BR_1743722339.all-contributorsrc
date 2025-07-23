@@ -21,6 +21,5 @@
   "projectName": "MeetingBar",
   "projectOwner": "leits",
   "repoType": "github",
-  "repoHost": "https://github.com",
   "skipCi": true
 }
