@@ -4,7 +4,6 @@
     "plugin:prettier/recommended",
   ],
     "googleappsscript/googleappsscript": true
-  "rules": {
     "prettier/prettier": "error",
     "camelcase": "warn",
     "import/prefer-default-export": "warn",
