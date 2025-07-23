@@ -85,7 +85,6 @@ Anyone with merge access can merge the PR after the item has been approved.
 
 ### Acceptance Criteria for Contributions
 Reviewers - Any contributor of respective repository
-
 - Everyone in the community is able to and encouraged to do PR reviews. 
 - A minimum of 3 community approvals, from at least 2 different companies, are required before a PR can be merged.
 
