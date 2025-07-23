@@ -11,7 +11,6 @@ which python
 
 whereis python
 ```
-
 ```
 pip install package_name #  会下载一个包
 ```
