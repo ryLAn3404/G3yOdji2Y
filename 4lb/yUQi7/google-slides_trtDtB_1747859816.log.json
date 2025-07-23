@@ -11,7 +11,6 @@
     "import/extensions": [
       "error",
       {
-        "js": "never",
         "ts": "never"
     ]
   },
