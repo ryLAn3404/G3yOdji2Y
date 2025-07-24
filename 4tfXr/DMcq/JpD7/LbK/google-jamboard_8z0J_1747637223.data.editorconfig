@@ -26,7 +26,6 @@ line_wrap_mode = soft wrap
 indent_style = space
 indent_size = 2
 end_of_line = lf
-trim_trailing_whitespace = false
 insert_final_newline = false
 line_wrap_mode = soft wrap
 # Plain Text document
