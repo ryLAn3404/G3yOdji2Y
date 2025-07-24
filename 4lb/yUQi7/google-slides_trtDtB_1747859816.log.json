@@ -2,7 +2,6 @@
   "extends": [
     "plugin:prettier/recommended",
   ],
-    "googleappsscript/googleappsscript": true
     "prettier/prettier": "error",
     "camelcase": "warn",
     "import/prefer-default-export": "warn",
