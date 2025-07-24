@@ -14,4 +14,3 @@
     "import/resolver": {
         "extensions": [".js", ".ts"]
       }
-}
