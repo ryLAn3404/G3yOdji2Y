@@ -12,5 +12,4 @@
   },
   "settings": {
     "import/resolver": {
-        "extensions": [".js", ".ts"]
       }
