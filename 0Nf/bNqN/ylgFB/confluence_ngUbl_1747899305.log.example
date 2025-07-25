@@ -22,5 +22,3 @@ POSTMARK_TOKEN=
 
 # for custom drawio server
 DRAWIO_URL=
-
-DISABLE_TELEMETRY=false
