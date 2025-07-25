@@ -43,7 +43,6 @@ end_of_line = lf
 charset = utf-8
 line_wrap_mode = soft wrap
 
-# HTML (HyperText Markup Language) document
 [*.htm *.html *.mhtm *.mhtml *.xhtm *.xhtml]
 indent_style = space
 indent_size = 2
