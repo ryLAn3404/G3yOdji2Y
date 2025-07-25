@@ -23,7 +23,6 @@ integration/platform-server-hydration/node_modules
 integration/service-worker-schema/node_modules
 integration/side-effects/node_modules
 integration/standalone-bootstrap/node_modules
-integration/terser/node_modules
 integration/typings_test_rxjs7/node_modules
 integration/typings_test_ts58/node_modules
 modules/ssr-benchmarks/node_modules
