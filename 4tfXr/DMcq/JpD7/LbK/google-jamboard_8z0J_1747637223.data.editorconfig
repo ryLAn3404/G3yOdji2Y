@@ -21,7 +21,6 @@ charset = utf-8
 trim_trailing_whitespace = false
 line_wrap_mode = soft wrap
 
-# YAML (YAML Ain't Markup Language) source code
 [*.yml *.yaml]
 indent_style = space
 indent_size = 2
