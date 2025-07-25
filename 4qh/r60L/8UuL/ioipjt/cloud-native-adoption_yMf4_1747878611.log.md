@@ -38,7 +38,6 @@ Check the respective focus area wikis for more details on when we meet for [Best
 Best Practices:
 - [Best Practices Discussion board](https://github.com/lfn-cnti/bestpractices/discussions)
 
-Test Catalog:
 
 Certification:
 - [Certification Discussion board](https://github.com/lfn-cnti/certification/discussions)
