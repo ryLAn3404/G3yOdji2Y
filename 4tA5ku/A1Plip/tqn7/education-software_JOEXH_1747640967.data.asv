@@ -13,7 +13,6 @@ function [tout, ave_t, var_t, n_t, nsegout] = runavevar(tseg, t, x)
 
         % Start time of the segcnt'th segment
         t0 = t(start);
-        idx = start;
 
         % Find end of the segment
             idx = idx + 1;
