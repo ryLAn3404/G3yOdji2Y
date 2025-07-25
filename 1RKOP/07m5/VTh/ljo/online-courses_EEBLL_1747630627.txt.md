@@ -15,7 +15,6 @@ whereis python
 pip install package_name #  会下载一个包
 ```
 ```
-python -m pip install package_name #  就会使用对应 python 的 pip 来下载
 python3 -m pip install package_name
 ```
 -m 代表 module。python -m module_name 意为使用 python 运行该模组。
