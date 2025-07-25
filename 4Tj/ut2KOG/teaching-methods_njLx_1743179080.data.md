@@ -1,4 +1,3 @@
-## Datasets
 - [Accompanying data](https://doi.org/10.5281/zenodo.3560761) from the book HDA (see below)
 ## Books
 - HDA: [*Humanities Data Analysis: Case Studies with Python*](https://www.humanitiesdataanalysis.org/)
