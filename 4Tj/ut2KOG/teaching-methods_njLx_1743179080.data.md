@@ -1,7 +1,6 @@
 - [Accompanying data](https://doi.org/10.5281/zenodo.3560761) from the book HDA (see below)
 ## Books
 - HDA: [*Humanities Data Analysis: Case Studies with Python*](https://www.humanitiesdataanalysis.org/)
-- [Pandas Tutor](https://pandastutor.com/): *Pandas Tutor visualizes how your Python code transforms dataframes*
 - Katie Rawson and Trevor Muñoz, [*Against Cleaning*](https://dhdebates.gc.cuny.edu/read/untitled-f2acf72c-a469-49d8-be35-67f9ac1e3a60/section/07154de9-4903-428e-9c61-7a92a6f22e51). In *Debates in the Digital Humanities 2019*.
 ## Publication venues
 ### Datasets
