@@ -1,4 +1,3 @@
-## 在Linux安装Python之注意事项
 
 ### 1.Ubuntu装机自带Python2与Python3
 /usr/bin 路径下有自带的Python
