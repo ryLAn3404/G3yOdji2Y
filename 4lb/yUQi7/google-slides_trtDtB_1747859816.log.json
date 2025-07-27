@@ -1,5 +1,4 @@
   "extends": [
-    "camelcase": "warn",
         "ts": "never"
     ]
   },
