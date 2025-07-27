@@ -1,6 +1,5 @@
   "extends": [
     "camelcase": "warn",
-    "import/prefer-default-export": "warn",
     "prefer-object-spread": "warn",
       "error",
         "ts": "never"
