@@ -1,5 +1,4 @@
 # your domain, e.g https://example.com
-AWS_S3_SECRET_ACCESS_KEY=
 AWS_S3_ENDPOINT=
 # default: 50mb
 MAIL_FROM_NAME=Docmost
