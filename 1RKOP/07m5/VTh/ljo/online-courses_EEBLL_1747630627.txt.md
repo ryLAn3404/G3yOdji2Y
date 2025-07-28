@@ -43,7 +43,6 @@ export PATH="$PATH:/directory2"
 export PATH="$PATH:/directory1"
 # 如果在原本的 PATH 里面有 python，那么 Shell 根本不会搜索 directory2。
 ```
-
 ### 5.Virtual Environment 是什么？
 virtualenv 是一个 Python 模组/工具，可以通过
 pip install virtualenv
