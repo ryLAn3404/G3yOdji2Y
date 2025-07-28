@@ -451,7 +451,6 @@ sale, or importing the Program or any portion of it.
 License of the Program or a work on which the Program is based.  The
 work thus licensed is called the contributor's "contributor version".
 
-  A contributor's "essential patent claims" are all patent claims
 hereafter acquired, that would be infringed by some manner, permitted
 by this License, of making, using, or selling its contributor version,
 but do not include claims that would be infringed only as a
