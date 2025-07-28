@@ -13,4 +13,3 @@ SMTP_IGNORETLS=false
 POSTMARK_TOKEN=
 
 # for custom drawio server
-DRAWIO_URL=
