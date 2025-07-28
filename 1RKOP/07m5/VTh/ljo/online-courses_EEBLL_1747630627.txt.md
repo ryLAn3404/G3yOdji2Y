@@ -35,7 +35,6 @@ gedit .bashrc  # 可以打开这个文件
 ```Bash
 echo $PATH  # 在命令行里，你可以这样将 PATH 的值打印出来
 
-export PATH="/directory1:/directory2:$PATH"
 ```
 export PATH="/directory1:$PATH"
 # 这种写法也是一样的，意为先追加 directory2 到 PATH 的前面，再追加 direcotry1 到 PATH 前面。
