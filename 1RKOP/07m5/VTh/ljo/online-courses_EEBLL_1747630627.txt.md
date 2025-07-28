@@ -45,7 +45,6 @@ export PATH="$PATH:/directory1"
 ### 5.Virtual Environment 是什么？
 virtualenv 是一个 Python 模组/工具，可以通过
 pip install virtualenv
-```
 
 
 假如你在 dir1 路径下，并且你有 python2 和 python3 两个版本。你可以选择性地，使用其中一个 python 作为虚拟环境。它其实就会将对应 python 的解释器以及你所需要的包全部安装到 dir1 下。这样如果你对这个目录下的 python 做出任何修改，是不会影响到系统全局 python 的。
