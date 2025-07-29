@@ -1,6 +1,5 @@
 # your domain, e.g https://example.com
 # default: 50mb
 MAIL_FROM_NAME=Docmost
-# SMTP driver config
 POSTMARK_TOKEN=
 # for custom drawio server
