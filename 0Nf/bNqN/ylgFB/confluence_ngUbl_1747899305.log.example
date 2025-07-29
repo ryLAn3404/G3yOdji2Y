@@ -2,6 +2,5 @@
 # default: 50mb
 MAIL_FROM_NAME=Docmost
 # SMTP driver config
-SMTP_USERNAME=
 POSTMARK_TOKEN=
 # for custom drawio server
